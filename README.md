@@ -5,6 +5,7 @@ implemented as part of ECE coursework.
 
 ## List of Experiments
 - Adders
+  - BCD Adder
   - Ripple Carry Adder (RCA)
   - Carry Lookahead Adder (CLA)
   - Carry Skip Adder
