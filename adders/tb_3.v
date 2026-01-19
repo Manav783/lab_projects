@@ -1,6 +1,7 @@
 `timescale 1ns / 1ps
 
-//this same testbench can be used for all the adders by just changing module instantiation
+//this same testbench can be used for the following adders by just changing module instantiation
+// RCA , CLA , Carry Skip  and Carry Select
 
 module adder_tb;
     reg  [7:0] A,B;
