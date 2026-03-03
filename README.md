@@ -11,6 +11,12 @@ implemented as part of ECE coursework.
   - Carry Skip Adder
   - Carry Select Adder
 - Universal Shift Register (USR)
+- Multipliers
+  - Booths Multiplier
+  - Shift Add Mutliplier
+- Floating Point
+  - Adder & Subtractor
+  - Multiplier
 
 ## Tools Used
 - Xlinix Vivado
