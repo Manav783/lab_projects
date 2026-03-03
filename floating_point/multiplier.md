@@ -52,10 +52,7 @@ Final result is expressed as:
 
 M_final × 2^E_final
 
-## Hardware Blocks Required
-
-- 3-bit Binary Adder (Exponent)
-- 8-bit Signed Multiplier (Shift-Add)
-- Normalization Unit
-- Shift Logic
+## Files
+- 'fp_mutliplier.v' consists of the verilog code for the exact along with needed comments
+- 'fp_multiplier_tb.v' is the testbench code for the designed module, consists of basic examples change according to your requirements
 
