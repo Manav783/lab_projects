@@ -1,4 +1,4 @@
-module Contl (
+module controller (
     input clk, rst, start,
     input [3:0] n,
     output reg load, shift, res, n1, done
