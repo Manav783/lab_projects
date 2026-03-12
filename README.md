@@ -17,7 +17,7 @@ implemented as part of ECE coursework.
 - Floating Point
   - Adder & Subtractor
   - Multiplier
--Dividers
+- Dividers
   - Restoring Divison
   - Non-restoring Divison
   (Using control and dataflow architecture)
