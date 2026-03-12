@@ -17,6 +17,10 @@ implemented as part of ECE coursework.
 - Floating Point
   - Adder & Subtractor
   - Multiplier
+-Dividers
+  - Restoring Divison
+  - Non-restoring Divison
+  (Using control and dataflow architecture)
 
 ## Tools Used
 - Xlinix Vivado
